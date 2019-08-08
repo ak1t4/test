@@ -2,7 +2,8 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: "<iframe src='<script>alert(1)</script>'><details open=''>"
+  description: "><embed src=x>"
+  Default: <script>console.log(‘000000000000000000dad0000000000000000000');</script>
 paths:
   /:
     get:
