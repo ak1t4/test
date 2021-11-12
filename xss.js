@@ -1,1 +1,1 @@
-confirm(document.domain)
+alert(2)
